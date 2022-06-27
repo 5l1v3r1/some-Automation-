@@ -51,3 +51,7 @@ https://youtu.be/2r-JkCt9VKM
 👉 YouTube Auto Cmts Using Pyautogui
 
 https://youtu.be/GLyvGpGyZ5M
+
+👉 Instagram Auto Acc Report
+https://youtu.be/H5DqPBL1VPc
+
