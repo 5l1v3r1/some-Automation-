@@ -55,3 +55,6 @@ https://youtu.be/GLyvGpGyZ5M
 👉 Instagram Auto Acc Report
 https://youtu.be/H5DqPBL1VPc
 
+👉 Instagram Auto Post
+https://youtu.be/9HkaZwrpYWo
+
