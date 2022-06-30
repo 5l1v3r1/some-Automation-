@@ -2,10 +2,6 @@
 
 https://youtu.be/kc7DyicjF_4
 
-👉Auto Gmail Login Using Python
-
-https://youtu.be/Gbl31e6V-hE
-
 👉 YouTube Auto Likes Using Js
 
 https://youtu.be/9y32BNIa8zM
