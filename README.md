@@ -36,6 +36,10 @@ https://youtu.be/vlh3xf41zL0
 
 https://youtu.be/7w-VPZ-js74
 
+👉 Twitter Auto Retweet & Auto Likes Using Py
+
+https://youtu.be/E12nBOlIXA8
+
 👉 Twitter Auto Likes Removing Using Js
 
 https://youtu.be/WLdTVTBP-nI
