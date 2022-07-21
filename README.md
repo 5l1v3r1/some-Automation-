@@ -20,10 +20,6 @@ https://youtu.be/oWyjn_8J-FU
 
 https://youtu.be/uVXa1wHnbjc
 
-👉 YouTube Auto Cmts Using Python
-
-https://youtu.be/dj_JlT_eqmU
-
 👉 YouTube Playlist Liked Video Removing  Automatically Using Js
 
 https://youtu.be/NUXWSEV3iIA
