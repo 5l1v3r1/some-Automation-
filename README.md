@@ -1,5 +1,3 @@
-👉Auto Insta Account Create
-https://youtu.be/LYMv2CXhGJY
 
 👉Auto Login To Facebook Using Python
 
