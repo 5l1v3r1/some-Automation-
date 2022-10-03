@@ -1,10 +1,6 @@
 👉Auto Insta Account Create
 https://youtu.be/LYMv2CXhGJY
 
-👉Auto Google Account Create
-
-https://youtu.be/848FJJsrlig
-
 👉Auto Login To Facebook Using Python
 
 https://youtu.be/kc7DyicjF_4
