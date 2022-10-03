@@ -1,8 +1,3 @@
-
-👉Auto Login To Facebook Using Python
-
-https://youtu.be/kc7DyicjF_4
-
 👉 YouTube Auto Likes Using Js
 
 https://youtu.be/9y32BNIa8zM
